@@ -1,0 +1,9 @@
+# This file is used to specify Python package dependencies.
+
+# For this simulation, no external libraries are required as it uses built-in modules
+# like 'asyncio', 'json', and 'logging' to remain self-contained and easy to run.
+
+# If this script were to be adapted for a real-world scenario to connect to a live
+# Ethereum node, you would need a library like Web3.py.
+# In that case, you would add the following line:
+# web3>=6.0.0
